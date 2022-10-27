@@ -1,16 +1,15 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 
 # PDX-FileCopyrightText: 2022 kousei tomiyama
 # SPDX-License-Identifier: BSD-3-Clause
-
 
 import sys
 
 ans = 0.0
 for line in sys.stdin:
  try:
-  ans += int(line)
+     ans += int(line)
+ except:
+    ans += float(line)
 
-      ans += float(line)
-
-  print(ans)
+print(ans)
