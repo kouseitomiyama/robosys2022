@@ -3,6 +3,7 @@
 # PDX-FileCopyrightText: 2022 kousei tomiyama
 # SPDX-License-Identifier: BSD-3-Clause
 
+
 import sys
 
 ans = 0
