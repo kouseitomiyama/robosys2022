@@ -1,5 +1,4 @@
-# robosys2022
-test
+# ライセンス
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
  * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
@@ -7,18 +6,16 @@ test
   * © 2022 kousei tomiyama
 
 # plusコマンド
-![test](https://github.com/kouseitomiyama/robosys2022/actions/workflows/test.yml/badge.svg)
-↑ テスト結果を反映したバッジの画像が埋め込まれる。（ryuichiueda等は各自変更を。）
+標準入力から読み込んだ数値を一つずつ足していく
+　$ seq 5 | ./plus
 
-標準入力から読み込んだ数字を足す。
-
-（ここに前ページの項目をいろいろ書く）
-
+ ## 実行結果
+ 15
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7〜3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu18.04
 
 © 2022 kousei tomiyama
