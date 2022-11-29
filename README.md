@@ -1,3 +1,7 @@
+## robosys2022
+ロボットシステム学の練習用リポジトリ
+![test](https://github.com/KouseiTomiyama/robosys2022/actions/workflows/test.yml/badge.svg)
+
 ## plusコマンド
 標準入力から読み込んだ数値を一つずつ足していく  
 `$ seq 5 | ./plus`
