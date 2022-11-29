@@ -2,20 +2,20 @@
 ロボットシステム学の練習用リポジトリ
 ![test](https://github.com/KouseiTomiyama/robosys2022/actions/workflows/test.yml/badge.svg)
 
-*このリポジトリには数値を足すplusコマンドが含まれています  
+* このリポジトリには数値を足すplusコマンドが含まれています  
 
-## plusコマンド
-*標準入力から読み込んだ数値を一つずつ足していく  
+## plusコマンド  
+* 標準入力から読み込んだ数値を一つずつ足していく  
 ```$ seq 5 | ./plus```  
 
 ## 実行結果
 ``` 15```
 
-## テスト済み環境
+## テスト済み環境  
 * Ubuntu18.04
 * Python 3.7〜3.10  
 
-## インストール方法
+## インストール方法  
 * sshで実行  
 ```$ git clone git@github.com:kouseitomiyama/robosys2022.git```  
 * httpsで実行  
