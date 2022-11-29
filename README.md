@@ -15,9 +15,9 @@
 
 ## インストール方法
 * sshで実行  
-```$git clone git@github.com:kouseitomiyama/robosys2022.git```  
+```$ git clone git@github.com:kouseitomiyama/robosys2022.git```  
 * httpsで実行  
-```$git clone https://github.com/kouseitomiyama/robosys2022.git```
+```$ git clone https://github.com/kouseitomiyama/robosys2022.git```
 
 ## ライセンス
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます
