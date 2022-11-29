@@ -2,8 +2,10 @@
 ロボットシステム学の練習用リポジトリ
 ![test](https://github.com/KouseiTomiyama/robosys2022/actions/workflows/test.yml/badge.svg)
 
+*このリポジトリには数値を足すplusコマンドが含まれています  
+
 ## plusコマンド
-標準入力から読み込んだ数値を一つずつ足していく  
+*標準入力から読み込んだ数値を一つずつ足していく  
 ```$ seq 5 | ./plus```  
 
 ## 実行結果
